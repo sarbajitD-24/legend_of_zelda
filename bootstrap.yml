@@ -1,3 +1,6 @@
 spring:
   application:
     name: legend_of_zelda
+
+server:
+  port: 9090
